@@ -9,9 +9,11 @@ var gamePlaying = false;
 var tonePlaying = false;
 var volume = 0.5;
 var guessCounter = 0;
+var strikes = 0;
 
 function startGame(){
     //initialize game variables
+    strikes = 0;
     progress = 0;
     gamePlaying = true;
   
@@ -133,6 +135,10 @@ function guess(btn){
   }else{
     //Guess was incorrect
     //GAME OVER: LOSE!
-    loseGame();
+    strikes += 1;
+    if (strikes == 3){
+      loseGame();
+    }
+    
   }
 }    
