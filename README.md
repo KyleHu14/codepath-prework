@@ -45,7 +45,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 <img src = 'http://g.recordit.co/q3obi8Akbz.gif'>
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. <br />
 I used only the w3schools website to reference some of JavaScript's functionality.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)<br />
