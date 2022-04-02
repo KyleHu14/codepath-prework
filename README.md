@@ -62,7 +62,7 @@ I would first comment every part of script.js, index.html, and style.css. By doi
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://drive.google.com/file/d/1y8PgnNSrS2UUm4fPKxw1J26x96huv6fA/view?usp=sharing
 
 
 ## License
